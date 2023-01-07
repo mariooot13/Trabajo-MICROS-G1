@@ -1,4 +1,2 @@
 # Trabajo-MICROS-G1
-Control de persianas
-Empezamos el trabajo
-hola
+Este proyecto tiene el control de domotica de una casa, sin la comunicacion serie I2C.
