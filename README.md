@@ -1,4 +1,2 @@
 # Trabajo-MICROS-G1
-Control de persianas
-Empezamos el trabajo
-hola
+Trabajo domotica de una vivienda con comunicacion serie I2C y comunicacion asincrona UART
